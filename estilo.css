@@ -1,0 +1,27 @@
+#div {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+#footer{
+    background-color: white;
+    display: grid;
+    grid-template-columns: 0%;
+}
+
+#div01 {
+    background-color: aqua;
+}
+
+#div02 {
+    background-color: aqua;
+}
+
+#div03 {
+    background-color: aqua;
+}
+
+#div04 {
+    background-color: aqua;                              
+}
